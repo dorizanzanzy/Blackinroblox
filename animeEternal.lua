@@ -1,8 +1,5 @@
 -- UI Library
--- UI Library
-loadstring(game:HttpGet(https://github.com/dorizanzanzy/Blackinroblox/blob/main/animeEternal.lua))()-- (raw.githubusercontent.com) when fetching files from GitHub. Executing remote code
--- is a security risk; prefer bundling the module or using ModuleScripts.
-local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/main.lua"))()
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 local SaveManager = loadstring(game:HttpGet(
     "https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet(
