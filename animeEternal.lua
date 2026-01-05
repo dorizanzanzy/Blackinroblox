@@ -514,13 +514,13 @@ ScreenGui.Name = "FleXiZ"
 ImageButton.Size = UDim2.fromOffset(128, 128)
 ImageButton.Position = UDim2.new(0.5, -ImageButton.Size.X.Offset / 2, 0, 10)
 ImageButton.BackgroundTransparency = 1
-ImageButton.Image = "rbxassetid://123198069831010"
+ImageButton.Image = "rbxassetid://10114044919"
 ImageButton.ImageColor3 = Color3.fromRGB(255, 255, 255)
 ImageButton.Parent = ScreenGui
 
 local Window = Fluent:CreateWindow({
     Title = "Anime Eternal",
-    SubTitle = "by FleXiZ",
+    SubTitle = "Blackinroblox",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true,
